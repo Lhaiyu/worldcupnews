@@ -1,4 +1,4 @@
-# worldcupnews
+# 迷上世界杯
 了解世界杯期间新闻，比分，球队信息的APP  
 
 采用litepal框架持久化数据用以当做缓存  
@@ -7,4 +7,4 @@ Okhttp框架访问后台
 使用Jsoup获得网上资讯  
 
 ###运行效果图
-[!image]()[!image]()[!image]()[!image]()[!image]()[!image]()
+![image]()
