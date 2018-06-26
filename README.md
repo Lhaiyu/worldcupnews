@@ -8,4 +8,4 @@ Okhttp框架访问后台
 
 ### 运行效果图
 
-![image](https://github.com/Lhaiyu/screenshot/blob/master/login.PNG)  ![image](https://github.com/Lhaiyu/screenshot/blob/master/register.PNG)  ![image](https://github.com/Lhaiyu/screenshot/blob/master/news.PNG)!  [image](https://github.com/Lhaiyu/screenshot/blob/master/team.PNG)  ![image](https://github.com/Lhaiyu/screenshot/blob/master/time.PNG)!  [image](https://github.com/Lhaiyu/screenshot/blob/master/team_context.PNG)
+![image](https://github.com/Lhaiyu/screenshot/blob/master/login.PNG)![image](https://github.com/Lhaiyu/screenshot/blob/master/register.PNG)![image](https://github.com/Lhaiyu/screenshot/blob/master/news.PNG)![image](https://github.com/Lhaiyu/screenshot/blob/master/team.PNG)![image](https://github.com/Lhaiyu/screenshot/blob/master/time.PNG)![image](https://github.com/Lhaiyu/screenshot/blob/master/team_context.PNG)
