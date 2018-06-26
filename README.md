@@ -5,6 +5,8 @@
 Okhttp框架访问后台  
 客户端解析Gson串  
 使用Jsoup获得网上资讯  
+用SpringMVC搭建的后台  
+
 
 ### 运行效果图
 
